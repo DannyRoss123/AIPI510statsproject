@@ -47,7 +47,7 @@ All scripts for data generation, statistical analysis, and visualization are con
 `data_and_stats_modeling_code.py`
 
 The generated data is stored in:  
-`rng_data.csv`
+`rng_clean.csv`
 
 ### To Run
 ```bash
